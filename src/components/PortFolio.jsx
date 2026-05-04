@@ -8,7 +8,7 @@ function PortFolio() {
       title: "Amazon Clone",
       desc: "A fully responsive online store built with modern UI.",
       tech: ["HTML", "CSS"],
-      live: "#",
+      live: "https://stately-baklava-e9a4b0.netlify.app/",
       code: "#",
     },
     {
@@ -17,7 +17,7 @@ function PortFolio() {
       title: "Airbnb Clone",
       desc: "Full-stack Airbnb clone with booking & authentication.",
       tech: ["JavaScript", "Node.js", "Express", "MongoDB"],
-      live: "#",
+      live: "https://wanderlust-project-7mjm.onrender.com/listings",
       code: "#",
     },
     {
@@ -26,7 +26,7 @@ function PortFolio() {
       title: "Personal Portfolio",
       desc: "Modern portfolio to showcase projects & skills.",
       tech: ["React", "Tailwind"],
-      live: "#",
+      live: "https://compliteportfolio.netlify.app/",
       code: "#",
     },
     {
@@ -35,7 +35,7 @@ function PortFolio() {
       title: "Dashboard UI",
       desc: "Data visualization dashboard with modern UI.",
       tech: ["React", "Tailwind"],
-      live: "#",
+      live: "https://productivityproject.netlify.app/",
       code: "#",
     },
   ];
